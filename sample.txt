@@ -1,0 +1,9 @@
+Hello world!
+This is a sample text file.
+It contains multiple lines,
+and several words on each line.
+
+The purpose is to test
+how a Python program
+reads and processes
+a raw text file.
